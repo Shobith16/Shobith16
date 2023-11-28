@@ -1,4 +1,4 @@
-[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.freepik.com/free-vector/colorful-web-design-concept-with-flat-design_3189844.htm#query=banner%20image%20for%20github%20codder%20account&position=48&from_view=search&track=ais&uuid=d608f041-3431-4a24-8923-482a6ee9aa95))](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shobith R Acharya</h1>
 <h3 align="center">A Aspiring frontend developer</h3>
 
