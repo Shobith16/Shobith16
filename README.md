@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shobith-r-acharya-89a146222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobith-r-acharya-89a146222" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/profile/shobithracharya1" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/22174532/hackerrank-logo.jpg" alt="shobithracharya" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/profile/shobithracharya1" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-social-preview.png?v=1714774596837" alt="shobithracharya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
