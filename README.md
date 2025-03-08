@@ -1,4 +1,4 @@
-![Inspirational Quote](https://drive.google.com/file/d/1-R_pW6gM97wMk8Z0zMUymw7EPmt9Zln7/view?usp=drive_link)
+![Inspirational Quote](https://i.pinimg.com/736x/ba/f7/a6/baf7a60b1ae513df659e09782dead814.jpg)
 
 # Hi 👋, I'm Shobith R Acharya
 
