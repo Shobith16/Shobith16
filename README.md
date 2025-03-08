@@ -1,32 +1,57 @@
 ![Logo](https://camo.githubusercontent.com/69a64c1db5c749cbf9b3cb40c1248ebdc6f6b7788b2d008506910a088af92ecd/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
-<h1 align="center">Hi 👋, I'm Shobith R Acharya</h1>
-<h3 align="center"> Software developer</h3>
 
+# Hi 👋, I'm Shobith R Acharya
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobith16&label=Profile%20views&color=0e75b6&style=flat" alt="shobith16" /> </p>
+## 💻 Software Developer | Full-Stack Web Developer
 
+📍 Udupi, Karnataka, India (Remote) | Software Developer at Trikaiser
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shobith16](https://github.com/Shobith16)
+### 🚀 About Me
+- 🔭 Currently working on **cross-platform mobile applications using Flutter & Dart**
+- ⚡ Passionate about **web development, AI-ML, and backend systems**
+- 🏆 Participated in **CodeKaze Coding Competition** & **IDEATHON 3.0**
+- 🎯 Seeking opportunities to improve my **professional & domain skills**
 
-- 📫 How to reach me **shobithracharya1816@gmail.com**
+### 🏗️ My Projects
+- 🎵 [**Music Transcription AI**](https://github.com/Shobith16/MusicalNotesGeneration) - Converts music into musical notes using AI
+- 🍽️ [**Foodie Hub MITE**](https://messeatz.com) - College food ordering platform
+- 📱 [**Volunteer-Link App**] - NGO event management system
+- 🌍 [**Tulu Nadu Tourism Website**](https://github.com/Shobith16/TulunadExplore) - Showcases Udupi & Mangalore culture
+- 🌐 [**Personal Portfolio**](https://shobith16.github.io/Portfolio)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SS9KyGWS3AbeGr2MkLWrwpipuY7H5ckk/view?usp=drive_link](https://drive.google.com/file/d/1SS9KyGWS3AbeGr2MkLWrwpipuY7H5ckk/view?usp=drive_link)
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobith-r-acharya-89a146222)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shobith16)
+[![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shobithracharya1)
 
- <img src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" alt="java" height="280"/>
+📧 Email: **shobithracharya1816@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shobith-r-acharya-89a146222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shobith-r-acharya-89a146222" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/profile/shobithracharya1" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/hackerrank/hackerrank-social-preview.png?v=1714774596837" alt="shobithracharya" height="30" width="40" /></a>
-</p>
+### 🛠️ Tech Stack
+#### **Languages & Frameworks**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+#### **Frontend & Backend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+#### **Databases & Tools**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shobith16&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shobith16&show_icons=true&theme=gotham)
 
+### 🏆 Certifications
+- **Crash Course on Python** - Google (Coursera)
+- **Introduction to HTML5** - University of Michigan (Coursera)
+- **Postman API Fundamentals Student Expert**
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shobith16&show_icons=true&theme=gotham" alt="shobith16" />
+📄 Check out my **[Resume](https://drive.google.com/file/d/1SS9KyGWS3AbeGr2MkLWrwpipuY7H5ckk/view?usp=drive_link)**
