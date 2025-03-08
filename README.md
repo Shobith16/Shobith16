@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working on **cross-platform mobile applications using Flutter & Dart**
-- ⚡ Passionate about **web development, AI-ML, and backend systems**
+- ⚡ Passionate about **web development, and backend systems**
 - 🏆 Participated in **CodeKaze Coding Competition** & **IDEATHON 3.0**
 - 🎯 Seeking opportunities to improve my **professional & domain skills**
 
