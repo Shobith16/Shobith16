@@ -1,4 +1,4 @@
-![Inspirational Quote](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcoding-quote&psig=AOvVaw2Nqcz3EbNCSnajwsBWfljJ&ust=1741523524720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCl5Ie_-osDFQAAAAAdAAAAABAE)
+![Inspirational Quote]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcoding-quote&psig=AOvVaw2Nqcz3EbNCSnajwsBWfljJ&ust=1741523524720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCl5Ie_-osDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fcoding-quote&psig=AOvVaw2Nqcz3EbNCSnajwsBWfljJ&ust=1741523524720000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCl5Ie_-osDFQAAAAAdAAAAABAE))
 
 # Hi 👋, I'm Shobith R Acharya
 
