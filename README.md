@@ -1,5 +1,3 @@
-
-
 # Hi 👋, I'm Shobith R Acharya
 
 ## 💻 Software Developer | Full-Stack Web Developer
@@ -15,7 +13,8 @@
 ### 🏗️ My Projects
 - 🎵 [**Music Transcription AI**](https://github.com/Shobith16/MusicalNotesGeneration) - Converts music into musical notes using AI
 - 🍽️ [**Foodie Hub MITE**](https://messeatz.com) - College food ordering platform
-- 📱 [**Volunteer-Link App**] - NGO event management system
+- 📱 [**Volunteer-Link App**](https://github.com/Shobith16/volunteer_link) - NGO event management system  
+- 🗳️ [**Online Voting System**](https://github.com/Shobith16/Online-Voting-System) - A secure online voting platform  
 - 🌍 [**Tulu Nadu Tourism Website**](https://github.com/Shobith16/TulunadExplore) - Showcases Udupi & Mangalore culture
 - 🌐 [**Personal Portfolio**](https://shobith16.github.io/Portfolio)
 
@@ -32,7 +31,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 
 #### **Frontend & Backend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
